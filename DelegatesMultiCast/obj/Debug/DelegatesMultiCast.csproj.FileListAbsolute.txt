@@ -1,0 +1,5 @@
+c:\users\xtier\documents\visual studio 2012\Projects\DelegatesMultiCast\DelegatesMultiCast\bin\Debug\DelegatesMultiCast.exe
+c:\users\xtier\documents\visual studio 2012\Projects\DelegatesMultiCast\DelegatesMultiCast\bin\Debug\DelegatesMultiCast.pdb
+c:\users\xtier\documents\visual studio 2012\Projects\DelegatesMultiCast\DelegatesMultiCast\obj\Debug\DelegatesMultiCast.csprojResolveAssemblyReference.cache
+c:\users\xtier\documents\visual studio 2012\Projects\DelegatesMultiCast\DelegatesMultiCast\obj\Debug\DelegatesMultiCast.exe
+c:\users\xtier\documents\visual studio 2012\Projects\DelegatesMultiCast\DelegatesMultiCast\obj\Debug\DelegatesMultiCast.pdb
