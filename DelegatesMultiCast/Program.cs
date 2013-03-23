@@ -68,10 +68,23 @@ namespace DelegatesMultiCast
             Console.WriteLine();
 
             // let's make a test
-            //for (int ii = 0, jj = 1; ii < 10; ii++, jj *= 2)
-            //{
-            //    Console.WriteLine(ii + " " + jj);
-            //}
+            for (int ii = 0, jj = 1; ii < 10; ii++, jj *= 2)
+            {
+                Console.WriteLine(ii + " " + jj);
+            }
+
+            // let's add some more code to test
+            for (int ii = 0, jj = 1; ii < 10; ii++, jj *= 2)
+            {
+                Console.WriteLine(ii + " " + jj);
+            }
+
+            // and let's add even more code
+            for (int ii = 0, jj = 1; ii < 10; ii++, jj *= 2)
+            {
+                Console.WriteLine(ii + " " + jj);
+            }
+
 
         }
     }
